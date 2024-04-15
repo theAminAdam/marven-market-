@@ -2,6 +2,8 @@
 Project: Maven Market Data Analysis
 Introduction:
 The goal of the Maven Market project involves analysing data from various sources to derive insights and make informed business decisions. This data analysis project was conducted using Power BI, a powerful tool for visualizing and interpreting data. The goal of this project is to provide actionable insights to Maven Market stakeholders based on comprehensive data analysis.
+
+
 Part 1: Data Preparation:
 Data was prepared using the following steps:
 
